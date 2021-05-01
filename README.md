@@ -3,7 +3,7 @@
 ![](img/game-preview.png)
 
 # Short introduction:
-__Snake__ is a simple game where the character must eat as many 'red squares' whithout dying.
+__Snake__ is a simple game where the character must 'eat' as many __red squares__ whithout dying.
 You character is 3 sqares long, and will get 1 square longer for each red square catched.
 
 # The Game Rules:
