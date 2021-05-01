@@ -1,8 +1,8 @@
 # Title: Snake Game
-# Website [LINK]()
+# Website [LINK](https://antoniobaciu.github.io/moving-blocks/)
 ![](img/game-preview.png)
 
-Short introduction:
+# Short introduction:
 __Snake__ is a simple game where the character must eat as many 'red squares' whithout dying.
 You character is 3 sqares long, and will get 1 square longer for each red square catched.
 
